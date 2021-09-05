@@ -1,0 +1,25 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Start
+
+# Controls when the workflow will run
+on: git clone https://github.com/Start-Hack/HackPlus
+
+
+  #!/bin/bash
+
+clear
+sleep 1
+figlet Hack Plus
+echo
+sleep 1
+echo -e "______________________________"
+echo -e "          "HACK PLUS"         "
+echo -e "______________________________"
+echo
+echo -p "1)"
+echo -p "2)"
+if [[ 1.0.10.10.10.1.1.0.0 ]]
+then
+done
+fi
